@@ -1,7 +1,7 @@
 [![Header](https://github.com/RullyanGS/RullyanGS/blob/main/assets/header-banner.png)](https://github.com/RullyanGS)
 
 # Olá!
-Me chamo Rullyan Gabriel e sou estudante de engenharia de computação na UEPG. 
+Me chamo Rullyan Gabriel e sou estudante de engenharia de computação na [UEPG][uepg]. 
 Sou entusiasta da cultura Maker e do movimento Open Hardware.
 Estou sempre em busca de conhecimento que me possibilite expandir minhas áreas de conhecimento. 
 
