@@ -12,9 +12,11 @@ Estou sempre em busca de conhecimento que me possibilite expandir minhas áreas 
 - Open hardware
 
 ## 🔧 Tecnologias e ferramentas
-<code><img height="25" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/C.png"></code>
-<code><img height="25" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/CPlusPlus.png"></code>
-<code><img height="25" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/CSharp.png"></code>
+<code><img height="35" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/C.png"></code>
+<code><img height="32" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/CPlusPlus.png"></code>
+<code><img height="35" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/CSharp.png"></code>
+<code><img height="35" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/DotNetCore.png"></code>
+<code><img height="35" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/DotNetFramework.png"></code>
 
 ## &#x1f4c8; Linguagens de programação mais utilizados
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RullyanGS&layout=compact)](https://github.com/RullyanGS/github-readme-stats)
