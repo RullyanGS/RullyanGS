@@ -1,7 +1,8 @@
 [![Header](https://github.com/RullyanGS/RullyanGS/blob/main/assets/header-banner.png)](https://github.com/RullyanGS)
 
 # Olá!
-Me chamo Rullyan Gabriel e sou estudante de engenharia de computação na UEPG. Sou do Brasil, e moro na cidade de Ponta Grossa. Sou entusiasta da cultura Maker e do movimento Open Hardware.
+Me chamo Rullyan Gabriel e sou estudante de engenharia de computação na UEPG. 
+Sou entusiasta da cultura Maker e do movimento Open Hardware.
 Estou sempre em busca de conhecimento que me possibilite expandir minhas áreas de conhecimento. 
 
 ## ✨ Áreas de Interesse
@@ -39,8 +40,6 @@ Estou sempre em busca de conhecimento que me possibilite expandir minhas áreas 
 
 ## ✉ Contato
 Fique a vontade para entrar em contato:
-- e-mail: contato@fabiosouza.org
+- e-mail: rullyan.gs@hotmail.com
 
 [uepg]: https://uepg.br
-[twitter]: https://twitter.com/RullyanGS
-[linkedin]: https://linkedin.com/in/RullyanGS
