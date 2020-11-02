@@ -13,8 +13,11 @@ Estou sempre em busca de conhecimento que me possibilite expandir minhas áreas 
 
 ## 🔧 Tecnologias e ferramentas
 <code><img height="35" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/C.png"></code>
-<code><img height="32" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/CPlusPlus.png"></code>
-<code><img height="35" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/CSharp.png"></code>
+<code><img height="30" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/CPlusPlus.png"></code>
+<code><img height="38" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/CSharp.png"></code>
+<code><img height="38" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/html.png"></code>
+<code><img height="38" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/css.png"></code>
+<code><img height="38" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/js.png"></code>
 <code><img height="35" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/DotNetCore.png"></code>
 <code><img height="35" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/DotNetFramework.png"></code>
 
