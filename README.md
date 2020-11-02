@@ -1,16 +1,27 @@
 [![Header](https://github.com/RullyanGS/RullyanGS/blob/main/assets/header-banner.png)](https://github.com/RullyanGS)
 
 # Olá!
-Me chamo Rullyan Gabriel e sou estudante de engenharia de computação na UEPG. Sou do Brasil, e moro na cidade de Ponta Grossa. Sou entusiasta da cultura Maker e do movimento Open Hardware. 
+Me chamo Rullyan Gabriel e sou estudante de engenharia de computação na UEPG. Sou do Brasil, e moro na cidade de Ponta Grossa. Sou entusiasta da cultura Maker e do movimento Open Hardware.
+Estou sempre em busca de conhecimento que me possibilite expandir minhas áreas de conhecimento. 
 
-+
+## ✨ Áreas de Interesse
+- IoT
+- Sistemas Embarcados
+- Sistemas operacionais de tempo Real
+- Desenvolvimento de produtos
+- Open hardware
+
 ## 🔧 Tecnologias e ferramentas
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=ffc200)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=ffc200)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ffc200)
+<code><img height="25" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/C.png"></code>
+<code><img height="25" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/CPlusPlus.png"></code>
+<code><img height="25" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/CSharp.png"></code>
 
 ## &#x1f4c8; Linguagens de programação mais utilizados
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RullyanGS&layout=compact)](https://github.com/RullyanGS/github-readme-stats)
+
+## ✉ Contato
+Fique a vontade para entrar em contato:
+- e-mail: contato@fabiosouza.org
 
 [uepg]: https://uepg.br
 [twitter]: https://twitter.com/RullyanGS
