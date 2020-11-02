@@ -1,9 +1,9 @@
-[![Header](https://github.com/RullyanGS/RullyanGS/raw/master/assets/header-banner.png)]
+[![Header](https://github.com/RullyanGS/RullyanGS/blob/main/assets/header-banner.png)]
 
 # Olá!
 Me chamo Rullyan Gabriel e sou estudante de engenharia de computação na UEPG. Sou do Brasil, e moro na cidade de Ponta Grossa. Sou entusiasta da cultura Maker e do movimento Open Hardware. 
 
-
++
 ## 🔧 Tecnologias e ferramentas
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=ffc200)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=ffc200)
