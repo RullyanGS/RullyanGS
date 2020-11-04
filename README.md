@@ -21,7 +21,6 @@ Estou sempre em busca de conhecimento que me possibilite expandir minhas áreas 
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/js.png"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/Bootstrap.png"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/React.png"></code>
-<!-- <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/TypeScript.png"></code> -->
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/DotNetCore.png"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/DotNetFramework.png"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/MySQL.png"></code>
@@ -33,9 +32,10 @@ Estou sempre em busca de conhecimento que me possibilite expandir minhas áreas 
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/freeRTOS.png"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/linux.png"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/CommandLine.png"></code>
-<!-- <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/unity3d.png"></code> -->
-<!-- <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/blender.png"></code> -->
-<!-- <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/fusion360.png"></code> -->
+<!-- <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/TypeScript.png"></code>
+<code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/unity3d.png"></code>
+<code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/blender.png"></code>
+<code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/fusion360.png"></code> -->
 
 ## &#x1f4c8; Linguagens de programação mais utilizados
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RullyanGS&layout=compact)](https://github.com/RullyanGS/github-readme-stats)
