@@ -49,7 +49,6 @@ Eu escrevo artigos, tutorias e divulgo projetos no meu blog:
 ## ✉ Contato
 Fique a vontade para entrar em contato:
 - e-mail: rullyan.gs@hotmail.com
-- intagram
 
 [uepg]: https://uepg.br
 [medium]: https://medium.com/escovandobits
