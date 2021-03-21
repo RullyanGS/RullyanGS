@@ -41,16 +41,9 @@ Estou sempre em busca de conhecimento que me possibilite expandir minhas áreas 
 ## &#x1f4c8; Linguagens de programação mais utilizados
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RullyanGS&layout=compact)](https://github.com/RullyanGS/github-readme-stats)
 
-<!-- 
-## 📰 Artigos, tutoriais e projetos
-Eu escrevo artigos, tutorias e divulgo projetos no meu blog:
-
-- [medium][medium]
--->
-
 ## ✉ Contato
-Fique a vontade para entrar em contato:
-- e-mail: rullyan.gs@hotmail.com
+- E-mail: rullyan.gs@hotmail.com
+- Linkedin: https://www.linkedin.com/in/rullyangs
 
 [uepg]: https://uepg.br
-[medium]: https://medium.com/escovandobits
+
