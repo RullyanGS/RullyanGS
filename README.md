@@ -20,20 +20,20 @@ Estou sempre em busca de conhecimento que me possibilite expandir minhas áreas 
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/css.png"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/js.png"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/Bootstrap.png"></code>
-<code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/React.png"></code>
-<code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/DotNetCore.png"></code>
-<code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/DotNetFramework.png"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/MySQL.png"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/git.png"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/docker.png"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/arduino.png"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/espressif.png"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/raspberry.png"></code>
-<code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/ArmMbed.png"></code>
+<code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/Arm.svg"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/freeRTOS.png"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/linux.png"></code>
-<code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/CommandLine.png"></code>
 <!-- <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/TypeScript.png"></code>
+<code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/CommandLine.png"></code>
+<code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/React.png"></code>
+<code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/DotNetCore.png"></code>
+<code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/DotNetFramework.png"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/unity3d.png"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/blender.png"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/fusion360.png"></code> -->
