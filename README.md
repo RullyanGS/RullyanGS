@@ -1,7 +1,7 @@
 [![Header](https://github.com/RullyanGS/RullyanGS/blob/main/assets/header-banner.png)](https://github.com/RullyanGS)
 
 # Olá!
-Me chamo Rullyan, sou Engenheiro de Computação formado pele [UEPG][uepg]. Sou um desenvolvedor com sólidos conhecimentos em desenvolvimento de aplicações web e mobile. Tenho experiência em projetos utilizando ASP.NET MVC, SQL Server e outras tecnologias do ecossistema .NET. Estou em busca de oportunidades que me permitam expandir meu conhecimento e contribuir com a criação de produtos de sucesso.
+Me chamo Rullyan, sou Engenheiro de Computação formado pele [UEPG][uepg]. Sou um desenvolvedor com sólidos conhecimentos em desenvolvimento de aplicações web e mobile. Tenho experiência em projetos utilizando ASP.NET MVC, SQL Server e outras tecnologias do ecossistema .NET.
 
 ## ✨ Áreas de Interesse
 - Sistemas Web
