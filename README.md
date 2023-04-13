@@ -14,11 +14,9 @@ Me chamo Rullyan, sou Engenheiro de Computação formado pele [UEPG][uepg]. Sou 
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/js.png"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/TypeScript.png"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/Bootstrap.png"></code>
+<code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/React.png"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/git.png"></code>
 <code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/docker.png"></code>
-<code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/linux.png"></code>
-<code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/CommandLine.png"></code>
-<code><img height="40" src="https://github.com/RullyanGS/RullyanGS/blob/main/assets/icons/React.png"></code>
 
 ## ✉ Contato
 - E-mail: rullyan.gs@hotmail.com
